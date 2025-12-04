@@ -1,7 +1,7 @@
 
 # Jason Gomez's Portfolio
 
-Hello, I am studying computer science at Cal State Fullerton.
+Hello, and welcome to my web page! My name is Jason and I am studying computer science at Cal State Fullerton.
 
 ## Favorite CPSC 120L Labs
 
